@@ -1,6 +1,0 @@
-<head>
-Nieco 
-</head>
-<body>
-zmazal som povodne
-</body>
